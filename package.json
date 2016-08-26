@@ -1,0 +1,28 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "My version of classic snake game.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Electron",
+    "Game",
+    "Snake",
+    "Tutorial"
+  ],
+  "author": "Ratan Kulshreshtha",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
