@@ -214,7 +214,7 @@ var Game = {
 
         // Check if the head of the snake is in the boundaries of the game field.
 
-        if(head.x >= 600 || head.x < 0 || head.y >= 450 || head.y < 0){
+        if(head.x >= 800 || head.x < 0 || head.y >= 600 || head.y < 0){
 
 
             // If it's not in, we've hit a wall. Go to game over screen.
