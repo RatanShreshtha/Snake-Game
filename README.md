@@ -6,7 +6,7 @@ This is my version of classic snake game, that you may remember from the old Nok
 
 ## Instructions
 
-You will need node.js, npm, and electron. So run the following commands.
+You will need node.js, npm, and electron, therefore firsr install node.js (> 4.0) and npm, then run the following commands.
 
 ```
 npm install && npm start
