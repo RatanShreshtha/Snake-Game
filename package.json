@@ -23,6 +23,7 @@
   },
   "homepage": "",
   "devDependencies": {
+    "electron-builder": "^5.34.1",
     "electron-prebuilt": "^1.2.0"
   }
 }

@@ -13,3 +13,10 @@ npm install && npm start
 ```
 
 And you are good to go.
+
+## Screenshots
+![Alt text](./screenshots/start.png?raw=true "Optional Title")
+
+![Alt text](./screenshots/game.png?raw=true "Optional Title")
+
+![Alt text](./screenshots/over.png?raw=true "Optional Title")
